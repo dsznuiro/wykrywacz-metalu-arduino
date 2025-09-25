@@ -25,3 +25,14 @@ Taki pomiar jest wykonywany 100 razy, a następnie jest z niego obliczona średn
 
 ## Schemat nr.2
 ![Schemat](schemat.png)
+
+## Budowa wykrywacza metali:
+Wykrywacz został zbudowany na bazie rurki z PCV i można go rozłożyć na dwie części. Dolna długa rurka z nawiniętą cewką, zabezpieczoną żółtą taśmą izolacyjną. Górna część to rączka oraz plexi, na której zamocowano Arduino wraz z niezbędnymi układami elektronicznymi. Pod plexi, przymocowanymi na rzepy, znajduje się powerbank zapewniający zasilanie urządzenia.
+
+## Wymiary oraz waga wykrywacza (mogą nie być idealne):
+- Długość dolnej części 65 cm
+- Długość górnej części 40 cm
+- średnica cewki 15 cm
+- Szerokość plexi 19,2 cm
+- Długość plexi 5,5 cm
+- Waga 1,1 kg
