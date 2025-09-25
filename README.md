@@ -36,3 +36,13 @@ Wykrywacz został zbudowany na bazie rurki z PCV i można go rozłożyć na dwie
 - Szerokość plexi 19,2 cm
 - Długość plexi 5,5 cm
 - Waga 1,1 kg
+
+## [Zobacz film prezentujący wykrywacz na YouTube](https://youtu.be/R6XZjj2VLoA)
+
+## Galeria zdjęć:
+![Zdjecie1](wykrywacz/IMG_20250925_175420.jpg)
+![Zdjecie2](wykrywacz/IMG_20250925_174831.jpg)
+![Zdjecie3](wykrywacz/IMG_20250925_174858.jpg)
+![Zdjecie4](wykrywacz/IMG_20250925_175420.jpg)
+![Zdjecie5](wykrywacz/IMG_20250925_174907.jpg)
+![Zdjecie6](wykrywacz/IMG_20250925_175011.jpg)
