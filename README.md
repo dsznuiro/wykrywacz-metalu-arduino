@@ -22,3 +22,6 @@ Taki pomiar jest wykonywany 100 razy, a następnie jest z niego obliczona średn
 
 ## Schemat nr.1 (przy pomocy tinkecard.com)
 ![Schemat](ARDUINO_SZKIC.png)
+
+## Schemat nr.2
+![Schemat](schemat.png)
