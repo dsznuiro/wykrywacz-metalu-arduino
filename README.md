@@ -19,3 +19,6 @@ Taki pomiar jest wykonywany 100 razy, a następnie jest z niego obliczona średn
 - Cewka tworzy pole elektromagnetyczne ( obecnośąć metalu wpływa na indukcyjność cewki, co wpływa na sygnał mierzony przez Arduino)
 - Dioda prostownicza prostuje impulsy z cewki ( umożliwia ładowanie kondensatora tylko w jedym kierunku przez co można mierzyć zmiany napięcia od obecności metalu)
 - Kondensator magazynuje ładunek elektryczny ( wygładza skoki) w szczególności pozwala na pomiar zmian napięcia
+
+## Schemat nr.1 (przy pomocy tinkecard.com)
+![Schemat](ARDUINO_SZKIC.png)
