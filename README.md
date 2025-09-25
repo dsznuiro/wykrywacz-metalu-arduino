@@ -1,7 +1,7 @@
 # wykrywacz-metalu-arduino
 ## Części:
 - Arduino Uno R4 WIFI
-- cewka ( drut emaliowany około 30 zwojów)
+- cewka ( drut emaliowany około 30 zwojów )
 - 3x rezystor 220 Ω
 - rezystor 330 Ω
 - kondensator 10 nF PAS-04928
